@@ -1,7 +1,7 @@
 # Prediction-of-Drug-dissolution-in-Supercritical-Carbon-dioxide
 
 **Introduction:**
-This project contributes to solving the medical challenges faced with poor aqueous solubility of drugs for the purpose of Active Pharmaceutical Ingredient (API) extraction and administration. It is specifically a predictive modeling optimization project  on drug dissolution in supercritical carbon dioxide (SCCO2). SCCO2 has been found to be the most commonly used supercritical fluid for various applications across scientific research and developments, most especially in Nano-technology. 
+It is specifically a predictive modeling optimization project  on drug dissolution in supercritical carbon dioxide (SCCO2). SCCO2 has been found to be the most commonly used supercritical fluid for various applications across scientific research and developments, most especially in Nano-technology. 
 
 This project focuses on its application to drug formulation and extraction processes during pharmaceutical production. Estimating the solubility of a drug in SCCO2 helps to guide the formulation of the drug for improved drug delivery, especially for anticancer drugs. 
 
