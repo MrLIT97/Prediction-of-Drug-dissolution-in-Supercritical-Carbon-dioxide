@@ -9,12 +9,19 @@ This project focuses on its application to drug formulation and extraction proce
 The dataset consists of experimental measured solubility of drugs over a diversified range of therapeutic classes. It was collected over a range of verifiable publication journals.
 
 drug - name of drug
+
 temp - operating temperature (K)
+
 press - operating pressure (bar)
+
 mw_drug - molecular weight of drug (g/mole)
+
 mp_drug - melting point of drug (K)
+
 rho_scco2 - density of scco2 (kg/m3)
+
 sol - equilibrium solubility (g/L)
+
 sol_mol_frac - equilibrium solubility in mole fraction
 
 **Expertise Demonstrated:**
