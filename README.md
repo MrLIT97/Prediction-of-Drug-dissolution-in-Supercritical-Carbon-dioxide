@@ -32,7 +32,7 @@ sol_mol_frac - equilibrium solubility in mole fraction
 5. Data manipulation
 6. Machine Learning modeling and Optimization
 
-**Packages used:**
+**Tools used:**
 - Excel 
 - Python 
 
@@ -41,7 +41,7 @@ sol_mol_frac - equilibrium solubility in mole fraction
 2. Quantile Transformation on target variable to normalized skewness 
 3. model building
 4. Optimization approach:
-   - gridsearch under the hood
+   - gridsearch
    - model performance visualization to track error minimization
 5. Model comparison
 
@@ -55,7 +55,7 @@ sol_mol_frac - equilibrium solubility in mole fraction
 - Artificial Neural Network
 
 **Result:**
-Ensemble Models perform the best with Gradient Boosting taking the lead. This is own to their robust learning method.
+Ensemble Models perform the best with Gradient Boosting taking the lead. This is due to their robust learning methods.
   
 
 
